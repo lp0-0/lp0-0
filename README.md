@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**lp0-0/lp0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+function setup() {
+  createCanvas(400, 400);
+}
 
-Here are some ideas to get you started:
+function draw() {
+  background(220);     
+}function draw() {
+    background("white");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    fill("red");
+    rect(0, 10, 100, 150);
+}
+function draw() {
+    background("white");
+    
+    stroke("blue") 
+    fill("red") 
+    rect(0, 10, 100, 150)
+}
+
+
+ 
